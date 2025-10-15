@@ -46,11 +46,8 @@
       "reactCompiler": true
     },
     "extra": {
-      "router": {},
-      "eas": {
-        "projectId": "502b46f9-0a21-41dd-adcf-19e93eb76ede"
-      }
+      "router": {}
     },
-    "owner": "newhoe"
+    "owner": "نام_کاربری_جدید_شما"
   }
 }
